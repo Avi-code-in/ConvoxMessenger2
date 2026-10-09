@@ -1,4 +1,4 @@
-package com.example.convox_messenger
+package com.cconvox.app
 
 import io.flutter.embedding.android.FlutterActivity
 
